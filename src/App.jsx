@@ -49,7 +49,7 @@ function App() {
             <h1>Youtube TO MP3</h1>
           </div>
           <div className="content_description mb-2">
-            <p>Convert Youtube videos to MP3s in just few secounds!</p>
+            <p>Convert YouTube videos to MP3s in just few secounds!</p>
           </div>
           <form onSubmit={handleSubmit}>
             <input ref={inputUrlRef} type="text" className="form-control mw-50 mb-4" placeholder='Paste link here ...' />
